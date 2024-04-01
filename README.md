@@ -57,6 +57,12 @@ image-metadata-extractor/
 
 ```
 
+###Outputs
+![image](https://github.com/akhilathuluri/Image-Metadata-Extractor/assets/89147384/4537004e-dd19-4997-ae54-ef1489585dc4)
+![image](https://github.com/akhilathuluri/Image-Metadata-Extractor/assets/89147384/9b106d7a-ad8f-4f0e-bca0-8db5d9479ddf)
+![image](https://github.com/akhilathuluri/Image-Metadata-Extractor/assets/89147384/2ec5346b-b078-4c8a-9366-5b750639e7a3)
+
+
 ## **License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
